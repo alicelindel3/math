@@ -1,4 +1,4 @@
-# math
+# Mathematics For AI
 https://www.anaconda.com/
 (Download For Windows)
 
