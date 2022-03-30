@@ -15,7 +15,7 @@ Section_6　Differential
 
 Section_7　Probability Statistics
 
-Section_8　Application to　AI
+Section_8　Application to AI
 
 https://www.shoeisha.co.jp/book/detail/9784798161174
 (Learn by running Python!)
