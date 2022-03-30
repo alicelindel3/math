@@ -11,8 +11,11 @@ Section_4　Foundations of Mathematics
 
 Section_5　Linear Algebra
 
+https://www.shoeisha.co.jp/book/detail/9784798161174
+(Learn by running Python!)
+
 https://qiita.com/7shi/items/41d262ca11ea16d85abc
 (Python Bit Operation)
 
-https://www.shoeisha.co.jp/book/detail/9784798161174
-(Learn by running Python!)
+https://www.headboost.jp/python-print-handle-number-of-digits/
+(HEADBOOST)
