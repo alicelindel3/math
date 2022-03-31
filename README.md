@@ -15,7 +15,7 @@ Section_3　Foundations of Python
 
 Section_4　Foundations of Mathematics
 
-Section_5　Linear algebra https://numpy.org/doc/stable/reference/routines.linalg.html
+Section_5　Linear algebra
 
 Section_6　Differential
 
