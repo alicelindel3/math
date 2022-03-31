@@ -20,6 +20,9 @@ Section_8　Application to AI
 https://www.shoeisha.co.jp/book/detail/9784798161174
 (Learn by running Python!)
 
+https://numpy.org/doc/stable/reference/index.html
+(NumPy Reference)
+
 https://qiita.com/7shi/items/41d262ca11ea16d85abc
 (Python Bit Operation)
 
