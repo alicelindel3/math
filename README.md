@@ -5,6 +5,12 @@ https://www.anaconda.com/
 https://gammasoft.jp/blog/google-colaboratory-for-learning/
 (Google Colaboratory Python)
 
+https://numpy.org/doc/stable/reference/index.html
+(NumPy Reference)
+
+https://matplotlib.org/stable/api/index.html
+(Matplotlib Reference)
+
 Section_3　Foundations of Python
 
 Section_4　Foundations of Mathematics
@@ -19,9 +25,6 @@ Section_8　Application to AI
 
 https://www.shoeisha.co.jp/book/detail/9784798161174
 (Learn by running Python!)
-
-https://numpy.org/doc/stable/reference/index.html
-(NumPy Reference)
 
 https://qiita.com/7shi/items/41d262ca11ea16d85abc
 (Python Bit Operation)
