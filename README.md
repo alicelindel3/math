@@ -1,4 +1,17 @@
 # Mathematics For AI
+
+Section_3　Pythonの基礎
+
+Section_4　数学の基礎
+
+Section_5　線形代数
+
+Section_6　微分
+
+Section_7　確率・統計
+
+Section_8　人工知能への応用
+
 https://www.anaconda.com/
 (Download For Windows)
 
@@ -10,18 +23,6 @@ https://numpy.org/doc/stable/reference/index.html
 
 https://matplotlib.org/stable/api/index.html
 (Matplotlib Reference)
-
-Section_3　Foundations of Python
-
-Section_4　Foundations of Mathematics
-
-Section_5　Linear algebra
-
-Section_6　Differential
-
-Section_7　Probability Statistics
-
-Section_8　Application to AI
 
 https://www.shoeisha.co.jp/book/detail/9784798161174
 (Learn by running Python!)
