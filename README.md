@@ -23,6 +23,3 @@ https://numpy.org/doc/stable/reference/index.html
 
 https://matplotlib.org/stable/api/index.html
 (Matplotlib Reference)
-
-https://www.shoeisha.co.jp/book/detail/9784798161174
-(Learn by running Python!)
