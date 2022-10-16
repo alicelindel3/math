@@ -1,5 +1,11 @@
 # Mathematics For AI
 
+https://www.anaconda.com/
+(Download For Windows)
+
+https://gammasoft.jp/blog/google-colaboratory-for-learning/
+(Google Colaboratory Python)
+
 Section_3　Pythonの基礎
 
 Section_4　数学の基礎
@@ -12,12 +18,6 @@ Section_7　確率・統計
 https://github.com/yukinaga/bayesian_statistics
 
 Section_8　人工知能への応用
-
-https://www.anaconda.com/
-(Download For Windows)
-
-https://gammasoft.jp/blog/google-colaboratory-for-learning/
-(Google Colaboratory Python)
 
 https://numpy.org/doc/stable/reference/index.html
 (NumPy Reference)
