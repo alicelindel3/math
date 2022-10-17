@@ -1,11 +1,5 @@
 # Mathematics For AI
 
-https://www.anaconda.com/
-(Download For Windows)
-
-https://gammasoft.jp/blog/google-colaboratory-for-learning/
-(Google Colaboratory Python)
-
 Section_3　Pythonの基礎
 
 Section_4　数学の基礎
