@@ -10,6 +10,6 @@ Section_6　微分
 
 Section_7　確率・統計
 
-Section_8　人工知能への応用
+https://github.com/yukinaga/bayesian_statistics
 
-はじめてのベイズ統計　https://github.com/yukinaga/bayesian_statistics
+Section_8　人工知能への応用
