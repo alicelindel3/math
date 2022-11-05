@@ -11,3 +11,18 @@ Section_6　微分
 Section_7　確率・統計　[ベイズ統計](https://github.com/yukinaga/bayesian_statistics)
 
 Section_8　人工知能への応用
+
+## 参考文献
+### Pythonの基礎
+[Python公式サイト](https://www.python.org/)
+
+[Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/)
+
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+### 線形代数
+[線形代数についての記事](https://org-technology.com/categories/xian-xing-dai-shu.html)
+### 確率・統計
+[統計学の時間](https://bellcurve.jp/statistics/course/#step1)
+
+[Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)
+
