@@ -21,4 +21,9 @@ Section_8　人工知能への応用
 [線形代数についての記事](https://org-technology.com/categories/xian-xing-dai-shu.html)
 ### 確率・統計
 [統計学の時間](https://bellcurve.jp/statistics/course/#step1)  
-[Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)
+[主成分分析の考え方](https://logics-of-blue.com/principal-components-analysis/)  
+[データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
+[環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
+[Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
+### 人工知能への応用  
+[Deep Learning](https://www.deeplearningbook.org/)
